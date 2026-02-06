@@ -1,2 +1,4 @@
 # .github
-Github organization for working on and keeping track of our grinnell gambling website
+# Readme
+
+Welcome to Grin Gambling. This is where all of the code for our website will be.
